@@ -1,8 +1,8 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   
-  <h1 align="center">Hi there, I'm [Your Name] 👋</h1>
-  <h3 align="center">A creative developer building beautiful and functional things for the web.</h3>
+  <h1 align="center">I'm [Your Name]</h1>
+  <h3 align="center">Software Developer focused on building scalable web applications.</h3>
 </div>
 
 <div align="center">
@@ -19,17 +19,16 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
-- 🔭 I’m currently working on **a SaaS platform for content creators.**
-- 🌱 I’m currently learning **Go (Golang) and advanced CI/CD pipelines.**
-- 💬 Ask me about **React, TypeScript, Node.js, and System Design.**
-- 📫 How to reach me: **[your.email@example.com]**
-- 😄 Pronouns: **He/Him**
+-   **Current Focus:** Building **[Project Name or Description, e.g., a data visualization tool]**.
+-   **Learning:** Currently deepening my knowledge of **Go (Golang) and advanced CI/CD pipelines**.
+-   **Interests:** My primary areas of interest are **React, TypeScript, Node.js, and System Design**.
+-   **Contact:** You can reach me at **[your.email@example.com]**.
 
 ---
 
-### 🛠️ My Tech Stack
+### Technical Skills
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -39,7 +38,7 @@
 
 ---
 
-### 🔥 My Stats & Activity
+### GitHub Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=[YOUR-USERNAME]&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
