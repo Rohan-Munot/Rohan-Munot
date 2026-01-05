@@ -12,9 +12,9 @@
   <!-- <a href="https://twitter.com/[your-twitter-handle]" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a> -->
-  <a href="https://rohanm.dev" target="_blank">
+  <!-- <a href="https://rohanm.dev" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
+  </a> -->
 </div>
 
 ---
